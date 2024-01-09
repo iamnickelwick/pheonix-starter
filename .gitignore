@@ -1,0 +1,6 @@
+LangChain_Application_Tutorial.md
+venv/*
+docs
+.env
+/__pycache__
+.DS_Store
