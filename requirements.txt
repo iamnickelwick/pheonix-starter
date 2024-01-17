@@ -1,0 +1,11 @@
+arize-phoenix
+chromadb
+langchain
+openai
+tiktoken
+langchainhub
+load_dotenv
+# for unstructured documents
+unstructured
+unstructured[pdf]
+unstructured[md]
